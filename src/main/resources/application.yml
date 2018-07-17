@@ -1,0 +1,9 @@
+jpush:
+  app-key:
+  master-secret:
+  is-pattern: true
+server:
+  port: 8050
+logging:
+  level:
+    com.jpush: info
